@@ -1,0 +1,5 @@
+# Site Configuration
+baseURL = 'http://example.org/'
+languageCode = 'is-IS'
+title = 'Hugo Bugo'
+theme = "ananke"
