@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://famous-biscuit-01efa7.netlify.app/</loc>
+    <lastmod>2022-08-20T11:20:27+00:00</lastmod>
+  </url><url>
+    <loc>https://famous-biscuit-01efa7.netlify.app/posts/my-second-post/</loc>
+    <lastmod>2022-08-20T11:20:27+00:00</lastmod>
+  </url><url>
+    <loc>https://famous-biscuit-01efa7.netlify.app/posts/</loc>
+    <lastmod>2022-08-20T11:20:27+00:00</lastmod>
+  </url><url>
+    <loc>https://famous-biscuit-01efa7.netlify.app/posts/my-first-post/</loc>
     <lastmod>2022-08-20T10:41:05+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/my-first-post/</loc>
-    <lastmod>2022-08-20T10:41:05+00:00</lastmod>
+    <loc>https://famous-biscuit-01efa7.netlify.app/categories/</loc>
   </url><url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2022-08-20T10:41:05+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/categories/</loc>
-  </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://famous-biscuit-01efa7.netlify.app/tags/</loc>
   </url>
 </urlset>

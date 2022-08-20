@@ -2,17 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Bugo</title>
-    <link>http://example.org/</link>
+    <link>https://famous-biscuit-01efa7.netlify.app/</link>
     <description>Recent content on Hugo Bugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>is-IS</language>
-    <lastBuildDate>Sat, 20 Aug 2022 10:41:05 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Aug 2022 11:20:27 +0000</lastBuildDate><atom:link href="https://famous-biscuit-01efa7.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Second Post</title>
+      <link>https://famous-biscuit-01efa7.netlify.app/posts/my-second-post/</link>
+      <pubDate>Sat, 20 Aug 2022 11:20:27 +0000</pubDate>
+      
+      <guid>https://famous-biscuit-01efa7.netlify.app/posts/my-second-post/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Post Numero Dos</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://famous-biscuit-01efa7.netlify.app/posts/my-first-post/</link>
       <pubDate>Sat, 20 Aug 2022 10:41:05 +0000</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://famous-biscuit-01efa7.netlify.app/posts/my-first-post/</guid>
       <description>what&amp;rsquo;s up with all the yellow cars? Today I saw 500 cars
 Advertisement :)
 pica - high quality and fast image resize in browser. babelfish - developer friendly i18n with plurals support and easy syntax. You will like those projects!
