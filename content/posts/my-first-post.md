@@ -5,7 +5,7 @@ publishdate: 2022-08-20T10:41:05Z
 ---
 ## what's up with all the yellow cars?
 
-Today I saw 500 cars
+Today I saw 500 **cars**
 
 
 
